@@ -1,0 +1,6 @@
+This is safe
+API_KEY = "something"
+AWS_KEY = "AKIA1A2B3C4D5E6F7G8H"
+some line here
+KEY = "AKIA1234567890ABCD"
+another line
